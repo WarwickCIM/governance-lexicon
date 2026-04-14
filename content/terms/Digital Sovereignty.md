@@ -9,9 +9,9 @@ Regardless of their scale or domain, these new forms of sovereignties share an a
 
 ## Digital Sovereignty (from a Europe-centric standpoint)
 
-Digital sovereignty[^5] refers to the political perspective in which the digital technologies and infrastructures that are essential for competitiveness and welfare are in accordance with the laws and interests of a particular community or region (usually, but not always, a nation). To achieve that goal, 
+Digital sovereignty[^5] refers to the political perspective in which the digital technologies and infrastructures that are essential for competitiveness and welfare are in accordance with the laws and interests of a particular community or region (usually, but not always, a nation). This is typically achieved through favouring Free/Libre OpenSource software, open formats and protocols, federated platforms or self-hosting.
 
-This is a position increasingly supported, demanded and enforced by governments (e.g. France[^2], Canada[^canada] or India[^india]), organisations, or social movements and communities of users, and their motivations range from economic motivation, justice or -more recently, due to the complex geopolitics context- [[security]] and [[privacy]].
+Digital sovereignty is increasingly supported, demanded and enforced by governments (e.g. France[^2], Canada[^canada]), organisations, or social movements and communities of users, and their motivations range from economic motivation, justice or -more recently, due to the complex geopolitics context- [[security]] and [[privacy]].
 
 The reason can be found in the following: today, almost every facet of our lives is mediated by the digital. There are few (if any) instances in the way we work, socialise, consume and access to leisure or culture that do not require any kind of digital infrastructure (e.g. servers, hardware), technology (e.g. software) or data. At a national level, this means that the economy is more and more dependent on such technologies, the vast majority of which is provided by a handful of big techs from the US (with China gaining momentum). Microsoft, Amazon and Alphabet (Google) alone “control almost 70% of the cloud market, and over half of the world’s undersea cables once Meta is included. The accelerated adoption of artificial intelligence (AI) has only made the situation more acute”[^3]. These companies, along with Apple, Nvidia and Tesla (known as the “Magnificent seven” due to their high performance in the stock market) have a combined market capitalisation of \$20.8 trillion, surpassing the GDP of the European Union (approximately \$19.4 trillion).
 
@@ -23,20 +23,27 @@ Some recent examples of these tensions are: 
 
 ### Who is working on Digital sovereignty?
 
-NGOS
+##### Governmental
+- **European Commission — Digital Sovereignty Strategy**: The EU's overarching framework including the GDPR, Digital Markets Act, Digital Services Act, and AI Act. Aims to regulate Big Tech, protect citizens' data, and reduce Europe's dependency on foreign digital infrastructure.[digital-strategy.ec.europa.eu ↗](https://digital-strategy.ec.europa.eu)
+- France–Germany Digital Sovereignty Task Force: Joint Franco-German initiative launched in November 2025 to develop a common definition of European digital services, sovereignty indicators for cloud and AI, and measures to promote European competitiveness and tech independence. [elysee.fr ↗](https://www.elysee.fr/en/emmanuel-macron/2025/11/18/summit-on-european-digital-sovereignty-delivers-landmark-commitments-for-a-more-competitive-and-sovereign-europe)
+- Canda's Digital Sovereignty Framework: a framework aimed to improve Canada's “digital readiness” to “manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. [https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
 
-### What’s being done?
+##### NGOS
 
-#### Initiatives:
+#### Organisations and grassroots:
 
-Digital sovereignty can be achieved by favouring the use of Free/Libre Opensource Software, Self-hosted technologies, moving from corporate social media to the Indieweb…
+- The Digital Sovereignty Coalition: a  exists to protect civil liberties, democratize technological power, and ensure that the future of artificial intelligence, data, and digital infrastructure reflects the values of freedom, equity, and self-determination. [https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
+- 
 
-[https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
 
 ## Related concepts
 
 - [[Commons]]
 - [[Digital Rights]]
+- [[FLOSS]]
+- [[Federation]]
+- [[Indieweb]]
+
 
 
 
@@ -49,8 +56,6 @@ Digital sovereignty can be achieved by favouring the use of Free/Libre Opensourc
 [^2]: Last 8th April, France government (At the initiative of the Prime Minister, the Minister of Action and Public Accounts, and the Minister Delegate for Artificial Intelligence and Digital Affairs, the Inter-Ministerial Directorate of Digital Affairs ) organised a seminar to discuss how to to reduce their non-European digital dependencies. In their official announcement, the term “digital sovereignty” is explicitly mentioned several times.  Specific, immediate plans include migrating the operating systems of their government PCs and laptops from Windows to GNU/Linux. Source: [https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 
 [^canada]: Canada has recently implemented a Digital Sovereignty Framework to improve their “digital readiness” to “to manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. Source: [https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
-
-[^india]:
 
 [^3]: Rikap C., Durand, C., Paraná, E., Gerbaudo, P. and Marx P. (2024). Reclaiming digital sovereignty: A roadmap to build a digital stack for people and the planet. Available at: [https://www.ucl.ac.uk/bartlett/public-purpose/Reclaiming-Digital-Sovereignty](https://www.ucl.ac.uk/bartlett/public-purpose/Reclaiming-Digital-Sovereignty)
 
