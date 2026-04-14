@@ -28,12 +28,13 @@ Some recent examples of these tensions are: 
 - France–Germany Digital Sovereignty Task Force: Joint Franco-German initiative launched in November 2025 to develop a common definition of European digital services, sovereignty indicators for cloud and AI, and measures to promote European competitiveness and tech independence. [elysee.fr ↗](https://www.elysee.fr/en/emmanuel-macron/2025/11/18/summit-on-european-digital-sovereignty-delivers-landmark-commitments-for-a-more-competitive-and-sovereign-europe)
 - Canda's Digital Sovereignty Framework: a framework aimed to improve Canada's “digital readiness” to “manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. [https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
 
-##### NGOS
-
-#### Organisations and grassroots:
-
-- The Digital Sovereignty Coalition: a  exists to protect civil liberties, democratize technological power, and ensure that the future of artificial intelligence, data, and digital infrastructure reflects the values of freedom, equity, and self-determination. [https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
+#### Organisations and grassroots
+- **Open Rights Group** UK-based digital campaigning organization protecting privacy and free speech. Challenges government surveillance legislation, mass data collection, and censorship through legal action and public advocacy. [openrightsgroup.org ↗](https://www.openrightsgroup.org)
 - 
+- The Digital Sovereignty Coalition: a  exists to protect civil liberties, democratize technological power, and ensure that the future of artificial intelligence, data, and digital infrastructure reflects the values of freedom, equity, and self-determination. [https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
+
+##### Initiatives
+-  https://europemadesoftware.eu/
 
 
 ## Related concepts
