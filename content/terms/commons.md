@@ -1,0 +1,4 @@
+
+## Related terms
+
+- [[Digital Sovereignty]]
