@@ -9,7 +9,7 @@ Regardless of their scale or domain, these new forms of sovereignties share an a
 
 ## Digital Sovereignty
 
-Digital sovereignty[^5] refers to the political perspective in which the digital technologies and infrastructures that are essential for competitiveness and welfare are in accordance with the laws and interests of a particular community or region (usually, but not always, a nation). This is typically achieved through favouring [Free/Libre OpenSource software](https://en.wikipedia.org/wiki/Free_and_open-source_software), open formats and protocols, federated platforms or self-hosting, particularly in [[Public|public]] organisations.
+Digital sovereignty[^5] refers to the political perspective in which the digital technologies and infrastructures that are essential for competitiveness and welfare are in accordance with the laws and interests of a particular community or region (usually, but not always, a nation). This is typically achieved through favouring [Free/Libre OpenSource software](https://en.wikipedia.org/wiki/Free_and_open-source_software), open formats and protocols, federated platforms or self-hosting, or, the creation of [[Digital Public Infrastructures]] (DPI), particularly in [[Public|public]] organisations and governments.
 
 Digital sovereignty is increasingly supported, demanded and enforced by governments (e.g. France[^2], Canada[^canada]), organisations, or social movements and communities of users, and their motivations range from economic motivation, justice (e.g. [[Digital Rights]]) or -more recently, due to the complex geopolitics context- [[Security|security]] and [[Privacy|privacy]].
 
@@ -23,16 +23,19 @@ This over-representation of US big tech along with their monopolistic practices 
 ##### Governmental
 - **European Commission — Digital Sovereignty Strategy**: The EU's overarching framework including the GDPR, Digital Markets Act, Digital Services Act, and AI Act. Aims to regulate Big Tech, protect citizens' data, and reduce Europe's dependency on foreign digital infrastructure.[digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
 - **France–Germany Digital Sovereignty Task Force:** Joint Franco-German initiative launched in November 2025 to develop a common definition of European digital services, sovereignty indicators for cloud and AI, and measures to promote European competitiveness and tech independence. [elysee.fr](https://www.elysee.fr/en/emmanuel-macron/2025/11/18/summit-on-european-digital-sovereignty-delivers-landmark-commitments-for-a-more-competitive-and-sovereign-europe)
-- **Canda's Digital Sovereignty Framework:** a framework aimed to improve Canada's “digital readiness” to “manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. [https://www.canada.ca/](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
+- **Canada's Digital Sovereignty Framework:** a framework aimed to improve Canada's “digital readiness” to “manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. [https://www.canada.ca/](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
 
 #### Organisations and grassroots
-- **Open Rights Group** UK-based digital campaigning organization protecting privacy and free speech. Challenges government surveillance legislation, mass data collection, and censorship through legal action and public advocacy. [openrightsgroup.org](https://www.openrightsgroup.org)
-- **The Digital Sovereignty Coalition:** a coalition to protect civil liberties, democratize technological power, and ensure that the future of artificial intelligence, data, and digital infrastructure reflects the values of freedom, equity, and self-determination. [https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
+- **Open Rights Group**: UK-based digital campaigning organisation protecting privacy and free speech. Challenges government surveillance legislation, mass data collection, and censorship through legal action and public advocacy. [openrightsgroup.org](https://www.openrightsgroup.org)
+- **The Digital Sovereignty Coalition:** a coalition to protect civil liberties, democratise technological power, and ensure that the future of artificial intelligence, data, and digital infrastructure reflects the values of freedom, equity, and self-determination. [https://digitalsovereigntycoalition.org/about](https://digitalsovereigntycoalition.org/about)
 
 #### Initiatives
--  https://europemadesoftware.eu/
+- https://europemadesoftware.eu/
 - [Indieweb](https://indieweb.org)
 
+
+
+![[Digital Public Infrastructures]]
 
 ## Related concepts
 
@@ -67,4 +70,3 @@ This over-representation of US big tech along with their monopolistic practices 
 
 [^8]: https://apnews.com/article/trump-icc-sanctions-israel-order-01beee050ae84d0d9eae66d00bc8ead9
 
-[^9]: 
