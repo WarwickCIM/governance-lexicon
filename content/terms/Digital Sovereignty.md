@@ -17,6 +17,8 @@ The reason can be found in the following: today, almost every facet of our lives
 
 This over-representation of US big tech along with their monopolistic practices often collide with EU's interests and regulations. Some recent examples of these tensions are the number of lawsuits[^6] against US big techs for not complying with EU regulations (e.g. [AI Act](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence), [Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act), and [Digital Markets Act](https://en.wikipedia.org/wiki/Digital_Markets_Act)), which triggered heated reactions from their CEOs. The US-president, Donald Trump, threatened to impose tariffs[^7] as a form of retaliation against what he considers to be “discriminatory” against American companies and, therefore, “unfair”.  Other examples include Microsoft blocking email accounts based on U.S. sanction over investigations of Israel[^8]. Given the growing hostilities with the USA, Digital sovereignty has become a strategic priority for the many countries, including the EU[^4], where it is supported by leaders like Ursula von der Leyen (European Commission) and Mario Draghi (European Central Bank). 
 
+> [!NOTE] DPI and Digital sovereignty
+> ![[Digital Public Infrastructures]]
 
 ### Who is working on Digital sovereignty?
 
@@ -35,7 +37,9 @@ This over-representation of US big tech along with their monopolistic practices 
 
 
 
-![[Digital Public Infrastructures]]
+
+
+
 
 ## Related concepts
 
