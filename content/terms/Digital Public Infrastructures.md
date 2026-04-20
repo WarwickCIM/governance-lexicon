@@ -8,7 +8,7 @@ The structural irony of this promise is that DPI systems require substantial clo
 
 Dominant DPI framings operate from a Westphalian, state-centred conception: sovereignty as the capacity of national governments to assert control and set the terms of digital governance within their territory (Pohle & Thiel, 2020). As Pohle (2024) argues, this framing displaces other legitimate sovereignty claims, from sub-national communities, civil society, and indigenous peoples, that the broader concept could and should accommodate. The sovereignty DPI delivers is sovereignty _for the state_, often mediated through infrastructure that remains, at its operational core, in someone else's hands.
 
-**Additional bibliography entries** (to add to the lexicon's existing footnotes):
+## References
 
 Fierce Network (2024) 'Google, AWS, Microsoft invest in sovereign cloud in Asia-Pac', 11 July. [https://www.fierce-network.com/cloud/google-aws-microsoft-invest-sovereign-cloud-asia-pac](https://www.fierce-network.com/cloud/google-aws-microsoft-invest-sovereign-cloud-asia-pac)
 
