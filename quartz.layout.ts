@@ -5,11 +5,27 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'WarwickCIM/governance-lexicon',
+      // from data-repo-id
+      repoId: 'R_kgDOSClCEA',
+      // from data-category
+      category: 'Website comments',
+      // from data-category-id
+      categoryId: 'DIC_kwDOSClCEM4C7SJb',
+      // from data-lang
+      lang: 'en'
+    }
+  }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/WarwickCIM/governance-lexicon",
+      "Centre for Interdisciplinary Methodologies": "https://warwick.ac.uk/cim",
     },
   }),
 }
